@@ -23,3 +23,14 @@ servicios al cliente sin que tenga que escribir /start
 ------------------------------------------------------------------
 LINK AL GRUPO
 # https://t.me/+P1X0RU5CLjliMDhh
+
+
+-----------------------------------------------------------------------
+---------------------------------------------------------------
+LO QUE QUIERO HACER
+un mensaje que contenga un boton, enviado desde el grupo poniendo #channel
+
+-----------------------------------------------------------------------
+---------------------------------------------------------------
+BOT ID 
+5772798648:AAELl54LNmwV2bg12CR8ugiyTDln_l2aLsE
