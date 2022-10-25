@@ -18,6 +18,10 @@ servicios al cliente sin que tenga que escribir /start
 
 -conseguir la maquina desfreceada para dejar instaladas todas las librerias
 
+-dejar en la descripcion del grupo las funcionalidades del bot
+
+-si el chat es individual que el bot envie el mensaje
+
 
 -----------------------------------------------------------------
 ------------------------------------------------------------------
